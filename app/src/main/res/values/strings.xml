@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BluetoothChater</string>
+    <string name="connect">Connect</string>
+    <string name="about">About</string>
+    <string name="search">Search</string>
+    <string name="cancle">Cancle</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="send_fail">Sending failed!</string>
+    <string name="unknown">Unknown</string>
+    <string name="verion_info">Version: %s \n Designer: Harold</string>
+</resources>
